@@ -19,4 +19,4 @@ NeedsCompilation: yes
 Packaged: 2016-03-21 21:26:31 UTC; jcheng
 Repository: CRAN
 Date/Publication: 2016-03-21 23:36:11
-Built: R 3.2.3; x86_64-pc-linux-gnu; 2017-01-03 19:36:21 UTC; unix
+Built: R 3.2.3; x86_64-pc-linux-gnu; 2017-01-04 19:15:09 UTC; unix

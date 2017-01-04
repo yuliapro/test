@@ -12,4 +12,4 @@ NeedsCompilation: yes
 Packaged: 2015-02-04 20:31:00 UTC; svnuser
 Repository: CRAN
 Date/Publication: 2015-07-28 08:03:37
-Built: R 3.2.3; x86_64-pc-linux-gnu; 2017-01-03 19:36:27 UTC; unix
+Built: R 3.2.3; x86_64-pc-linux-gnu; 2017-01-04 19:15:04 UTC; unix
